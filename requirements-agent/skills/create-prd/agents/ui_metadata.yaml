@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Prd"
+  short_description: "Reusable requirements engineering workflow using canonical ISO 29148 and EARS standards"
+  brand_color: "#0078D4"
